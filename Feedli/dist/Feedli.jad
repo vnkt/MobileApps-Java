@@ -1,0 +1,9 @@
+MIDlet-1: Feedlee,/fav_ico.png,hello.Feedli
+MIDlet-Jar-Size: 179325
+MIDlet-Jar-URL: Feedli.jar
+MIDlet-Name: Feedli
+MIDlet-Permissions: javax.microedition.io.Connector.sms, javax.microedition.io.Connector.http
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
